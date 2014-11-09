@@ -1,9 +1,7 @@
 //
 //  AppDelegate.h
 //  GitHubRepos
-//
-//  Created by Juraj Hilje on 08/11/14.
-//  Copyright (c) 2014 Juraj Hilje. All rights reserved.
+//  Created by Juraj Hilje on 06/11/14.
 //
 
 #import <UIKit/UIKit.h>
@@ -12,6 +10,4 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
-
 @end
-
