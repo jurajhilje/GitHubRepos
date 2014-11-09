@@ -13,7 +13,7 @@
 #import "ListCell.h"
 #import "DetailViewController.h"
 
-#define k_JSON_URL @"https://api.github.com/users/mralexgray/repos"
+#define k_JSON_URL @"https://api.github.com/users/jurajhilje/repos"
 #define k_VIEW_TITLE @"GitHub Repos"
 #define k_ROW_HEIGHT 70
 
